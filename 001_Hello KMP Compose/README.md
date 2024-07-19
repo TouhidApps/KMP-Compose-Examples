@@ -1,6 +1,6 @@
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
 
-### Environment setup check (Mac terminal)
+### * Environment setup check (Mac terminal)
 
 Install kdoctor : brew install kdoctor
 Run kdoctor : kdoctor
@@ -8,7 +8,7 @@ Run kdoctor : kdoctor
 [If everything okay it will show check mark for each necessary items, if not okay install/fix it first]
 
 
-### Run command (Android studio terminal):
+### * Run command (Android studio terminal):
 
 Android: Run from android studio run button.
 
