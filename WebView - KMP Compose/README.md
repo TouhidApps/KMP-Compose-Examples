@@ -15,11 +15,11 @@ To implement more features follow this library: https://github.com/KevinnZou/com
 
 ## Screenshots:
 
-![Load web](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview_1.jpg)
-![Progress loading](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview_2.jpg)
-![Load from assets/Offline html](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview_3.jpg)
-![Project structure](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview_4.jpg)
-![iOS Preview offline](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview_5.jpg)
+![Load web](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview-1.jpg)
+![Progress loading](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview-2.jpg)
+![Load from assets/Offline html](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview-3.jpg)
+![Project structure](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview-4.jpg)
+![iOS Preview offline](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/WebView%20-%20KMP%20Compose/screenshot/webview-5.jpg)
 
 
 
