@@ -10,6 +10,7 @@ Features in this example:
 3. Progress bar
 4. Back/forward
 5. Interceptor (To track url request)
+
 To implement more features follow this library: https://github.com/KevinnZou/compose-webview-multiplatform
 
 
