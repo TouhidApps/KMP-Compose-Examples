@@ -39,6 +39,11 @@ MOKO MVVM Library project for Android & iOS.
 
 Features: MVVM implementation. BMI calculation. 
 
+## Resource Sharing (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP%20Resource%20Sharing
+
+Covered topics:
+1. Shared Image
+2. Shared String with localisation
 
 
 
