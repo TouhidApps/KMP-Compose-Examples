@@ -43,7 +43,8 @@ Features: MVVM implementation. BMI calculation.
 
 Covered topics:
 1. Shared Image
-2. Shared String with localisation
+2. Shared String
+3. Localisation
 
 
 
