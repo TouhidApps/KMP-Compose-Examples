@@ -2,7 +2,7 @@ package di
 
 import MyRepository
 import MyRepositoryImpl
-import dependencies.MyViewModel
+import depend.MyViewModel
 import org.koin.compose.viewmodel.dsl.viewModelOf
 import org.koin.core.module.Module
 import org.koin.core.module.dsl.singleOf

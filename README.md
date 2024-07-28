@@ -1,5 +1,5 @@
 # KMP Compose Examples
-Kotlin Multi-Platform (KMP)  Compose Example Small Projects. Focused on all platforms (Android/iOS/Desktop/Web/Server))
+Kotlin Multi-Platform (KMP)  Compose Example Small Projects. Focused on all platforms (Android/iOS/Desktop/Web/Server)
 
 
 ### * Environment setup check (Mac terminal)
@@ -46,7 +46,12 @@ Covered topics:
 2. Shared String
 3. Localisation
 
+## Koin-Dependency-Injection-DI (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/Koin-Dependency-Injection-DI
 
+Covered topics:
+1. Shared Image
+2. Shared String
+3. Localisation
 
 
 
