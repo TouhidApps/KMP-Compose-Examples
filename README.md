@@ -48,9 +48,8 @@ Covered topics:
 
 ## Koin-Dependency-Injection-DI (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/Koin-Dependency-Injection-DI
 
-Covered topics:
-1. Koin for DI
-2. use of expect & actual keyword 
+Covered topic:
+1. Koin for Dependency Injection (DI)
 
 
 
