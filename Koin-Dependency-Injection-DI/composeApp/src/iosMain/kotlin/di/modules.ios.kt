@@ -1,9 +1,9 @@
 package di
 
-import WasmPlatform
+import IOSPlatform
 import Platform
 import org.koin.dsl.module
 
 actual val platformModule = module {
-    factory<Platform> { WasmPlatform() }
+    factory<Platform> { IOSPlatform() }
 }
