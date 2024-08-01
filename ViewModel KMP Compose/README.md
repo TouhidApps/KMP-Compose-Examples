@@ -93,5 +93,5 @@ Code Screenshot:
 
 ![ViewModel & Koin 2](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/ViewModel%20KMP%20Compose/img/img-2.png)
 
-![ViewModel & Koin 1](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/ViewModel%20KMP%20Compose/img/img-2.png)
+![ViewModel & Koin 1](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/ViewModel%20KMP%20Compose/img/img-1.png)
 
