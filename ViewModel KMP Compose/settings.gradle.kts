@@ -1,4 +1,4 @@
-rootProject.name = "Koin-Dependency-Injection-DI"
+rootProject.name = "ViewModel-KMP-Compose"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
