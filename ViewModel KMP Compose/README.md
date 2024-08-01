@@ -91,7 +91,7 @@ desktopMain.dependencies {
 
 Code Screenshot:
 
-![Koin DI Part 1](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/Koin-Dependency-Injection-DI/img/img-1.png)
+![ViewModel & Koin 1](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/ViewModel%20KMP%20Compose/img/img-1.png)
 
-![Koin DI Part 2](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/Koin-Dependency-Injection-DI/img/img-2.png)
+![ViewModel & Koin 2](https://raw.githubusercontent.com/TouhidApps/KMP-Compose-Examples/main/ViewModel%20KMP%20Compose/img/img-1.png)
 

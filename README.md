@@ -1,5 +1,5 @@
 # KMP Compose Examples
-Kotlin Multi-Platform (KMP)  Compose Example Small Projects. Focused on all platforms (Android/iOS/Desktop/Web/Server)
+Kotlin Multi-Platform (KMP) Compose Example Projects. Focused on all platforms (Android/iOS/Desktop/Web/Server)
 
 
 ### * Environment setup check (Mac terminal)
@@ -22,36 +22,39 @@ Web (Use terminal): ./gradlew wasmJsBrowserRun
 
 Server: Project -> server -> src -> pkg name -> Application.kt -> run main function.
 
-## Hello KMP Compose (Android/iOS/Desktop/Web): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/001_Hello%20KMP%20Compose
+## 1. Hello KMP Compose (Android/iOS/Desktop/Web): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/001_Hello%20KMP%20Compose
 
 Basic KMP project with all platforms
 -> Documented to run in all platforms
 
-## WebView - KMP Compose (Android/iOS): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/WebView%20-%20KMP%20Compose
+## 2. WebView - KMP Compose (Android/iOS): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/WebView%20-%20KMP%20Compose
 
 WebView KMP project for Android & iOS.
 
 Features: Load from web, Load from local/offline html, Progress bar, Back/forward, Interceptor (To track url request) 
 
-## BMI Calculator - MOKO MVVM (Android/iOS): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP%20-%20BMI%20Calculator%20-%20MOKO%20MVVM
+## 3. BMI Calculator - MOKO MVVM (Android/iOS): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP%20-%20BMI%20Calculator%20-%20MOKO%20MVVM
 
 MOKO MVVM Library project for Android & iOS.
 
 Features: MVVM implementation. BMI calculation. 
 
-## Resource Sharing (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP%20Resource%20Sharing
+## 4. Resource Sharing (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP%20Resource%20Sharing
 
 Covered topics:
 1. Shared Image
 2. Shared String
 3. Localisation
 
-## Koin-Dependency-Injection-DI (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/Koin-Dependency-Injection-DI
+## 5. Koin-Dependency-Injection-DI (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/Koin-Dependency-Injection-DI
 
 Covered topic:
 1. Koin for Dependency Injection (DI)
 
+## 6. ViewModel KMP Compose (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/ViewModel%20KMP%20Compose
 
+Covered topic:
+1. ViewModel with Koin DI
 
 
 
