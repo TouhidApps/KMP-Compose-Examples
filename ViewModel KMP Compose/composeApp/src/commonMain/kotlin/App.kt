@@ -14,10 +14,10 @@ import di.platformModule
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
-import koin_dependency_injection_di.composeapp.generated.resources.Res
-import koin_dependency_injection_di.composeapp.generated.resources.compose_multiplatform
 import org.koin.compose.KoinApplication
 import org.koin.compose.koinInject
+import viewmodel_kmp_compose.composeapp.generated.resources.Res
+import viewmodel_kmp_compose.composeapp.generated.resources.compose_multiplatform
 
 @Composable
 @Preview
