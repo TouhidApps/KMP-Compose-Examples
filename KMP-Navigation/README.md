@@ -11,7 +11,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
  6. Bottom Sheet
 
 Preview:
-
+![Navigation](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/s1.jpg)
 ![Navigation Video](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/navigation_video.gif)
 
 

@@ -67,6 +67,7 @@ Covered topic:
 5. Bottom Bar
 6. Bottom Sheet
 
+![Navigation](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/s1.jpg)
 ![Navigation Video](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/navigation_video.gif)
 
 
