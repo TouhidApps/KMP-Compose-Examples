@@ -12,7 +12,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
 Preview:
 
-[Navigation Video](../navigation_video.mov)
+[Navigation Video](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/navigation_video.mov)
 
 
  4. Compose Navigation:

@@ -57,4 +57,23 @@ Covered topic:
 1. ViewModel with Koin DI
 
 
+## 7. KMP-Navigation (Android/iOS/Web/Desktop): https://github.com/TouhidApps/KMP-Compose-Examples/tree/main/KMP-Navigation
+
+Covered topic:
+1. Navigation Drawer Menu
+2. Alert dialog
+3. Pager & Tab
+4. Compose Navigation
+5. Bottom Bar
+6. Bottom Sheet
+
+[Navigation Video](https://github.com/TouhidApps/KMP-Compose-Examples/blob/main/KMP-Navigation/screenshots/navigation_video.mov)
+
+
+
+
+
+
+
+
 
