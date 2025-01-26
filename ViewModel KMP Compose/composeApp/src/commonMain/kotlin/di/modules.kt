@@ -18,5 +18,7 @@ val appModule = module {
     factory<Greeter> { Greeting(get()) }
 
     singleOf(::MyViewModel)
+//    factory { MyViewModel(get()) }
+
 }
 expect val platformModule: Module
