@@ -4,6 +4,7 @@ import Greeter
 import Greeting
 import MyViewModel
 import org.koin.core.module.Module
+import org.koin.core.module.dsl.factoryOf
 import org.koin.core.module.dsl.singleOf
 import org.koin.dsl.module
 
@@ -18,7 +19,8 @@ val appModule = module {
     factory<Greeter> { Greeting(get()) }
 
     singleOf(::MyViewModel)
-//    factory { MyViewModel(get()) }
+    factoryOf(::MyViewModel)
+//    factory { MyViewModel(get()) } // same as factoryOf(::MyViewModel)
 
 }
 expect val platformModule: Module
